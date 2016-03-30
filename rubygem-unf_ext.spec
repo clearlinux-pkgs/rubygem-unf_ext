@@ -4,7 +4,7 @@
 #
 Name     : rubygem-unf_ext
 Version  : 0.0.7.2
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/unf_ext-0.0.7.2.gem
 Source0  : https://rubygems.org/downloads/unf_ext-0.0.7.2.gem
 Summary  : No detailed summary available
@@ -72,46 +72,40 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/unf_ext-0.0.7.2.gem
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/UNF/Normalizer/cdesc-Normalizer.ri
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/UNF/cdesc-UNF.ri
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/ext/unf_ext/page-Makefile.ri
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/page-LICENSE_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/unf_ext-0.0.7.2/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/extensions/x86_64-linux/2.2.0/unf_ext-0.0.7.2/gem.build_complete
-/usr/lib64/ruby/gems/2.2.0/extensions/x86_64-linux/2.2.0/unf_ext-0.0.7.2/gem_make.out
-/usr/lib64/ruby/gems/2.2.0/extensions/x86_64-linux/2.2.0/unf_ext-0.0.7.2/mkmf.log
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/.document
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/CHANGELOG.md
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/Gemfile.lock
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/.RUBYARCHDIR.time
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/Makefile
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/extconf.rb
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf.cc
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf.o
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/normalizer.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/table.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/char_stream.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/node.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/searcher.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/util.hh
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/lib/unf_ext.rb
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/lib/unf_ext/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/test/helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/test/normalization-test.txt
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/test/test_unf_ext.rb
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/unf_ext.gemspec
-/usr/lib64/ruby/gems/2.2.0/specifications/unf_ext-0.0.7.2.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/unf_ext-0.0.7.2.gem
+/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.2/gem.build_complete
+/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.2/gem_make.out
+/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.2/mkmf.log
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/.document
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/CHANGELOG.md
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/Gemfile.lock
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/.RUBYARCHDIR.time
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/Makefile
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/extconf.rb
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf.cc
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf.o
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/normalizer.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/table.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/char_stream.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/node.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/trie/searcher.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf/util.hh
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib/unf_ext.rb
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib/unf_ext/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/test/helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/test/normalization-test.txt
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/test/test_unf_ext.rb
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/unf_ext.gemspec
+/usr/lib64/ruby/gems/2.3.0/specifications/unf_ext-0.0.7.2.gemspec
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/extensions/x86_64-linux/2.2.0/unf_ext-0.0.7.2/unf_ext.so
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf_ext.so
-/usr/lib64/ruby/gems/2.2.0/gems/unf_ext-0.0.7.2/lib/unf_ext.so
+/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.2/unf_ext.so
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext/unf_ext/unf_ext.so
+/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib/unf_ext.so
